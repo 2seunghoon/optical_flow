@@ -1,0 +1,12 @@
+﻿  flow_image.c
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(16,1): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(17,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(34,1): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(36,1): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(37,1): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(107,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(207,81): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(208,81): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(233,28): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\cv\optical_flow\optical_flow\optical_flow\src\flow_image.c(233,31): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  optical_flow.vcxproj -> F:\cv\optical_flow\optical_flow\Debug\optical_flow.exe
